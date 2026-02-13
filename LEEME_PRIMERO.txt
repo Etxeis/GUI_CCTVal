@@ -1,0 +1,166 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║            🔬 PROCESADOR AVANZADO DE DATOS EXPERIMENTALES 🔬               ║
+║                                                                            ║
+║                       Versión 1.0 - Febrero 2026                           ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📂 ARCHIVOS INCLUIDOS:
+
+  🎨 APLICACIONES (Ejecutar una de estas)
+     • data_processor_advanced.py    ⭐ RECOMENDADO - Versión completa
+     • data_processor_gui.py         - Versión simple/ligera
+
+  📚 DOCUMENTACIÓN
+     • README.md                     - Descripción general del proyecto
+     • INSTRUCCIONES.md              - Manual técnico completo
+     • INICIO_RAPIDO.md              - Guía de 5 minutos (LEER PRIMERO)
+     • MANIFEST.md                   - Descripción de archivos
+     • LEEME_PRIMERO.txt             - Este archivo
+
+  ⚙️ CONFIGURACIÓN
+     • config.py                     - Archivo de configuración
+
+  📊 DATOS Y EJEMPLOS
+     • Reporte_de_Datos.csv          - Archivo de datos de ejemplo
+     • ejemplo_uso_programatico.py   - Script Python de ejemplo
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🚀 INICIO RÁPIDO (3 PASOS):
+
+  1. INSTALAR DEPENDENCIAS (1 minuto)
+     
+     pip install PyQt6 pandas numpy openpyxl
+  
+  
+  2. EJECUTAR APLICACIÓN (inmediato)
+     
+     python data_processor_advanced.py
+  
+  
+  3. PROCESAR DATOS (2 minutos)
+     
+     • Click en "Cargar" → Selecciona Reporte_de_Datos.csv
+     • Ajusta parámetros (número de lote, índices)
+     • Click en "▶ Procesar Datos"
+     • Click en "💾 Exportar" para guardar resultado
+
+
+⏱️ TIEMPO TOTAL: ~5 MINUTOS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📖 ORDEN DE LECTURA RECOMENDADO:
+
+  1. INICIO_RAPIDO.md      ← Empieza aquí (5 min)
+  2. README.md             ← Visión general (10 min)
+  3. INSTRUCCIONES.md      ← Referencia técnica (20 min)
+  4. MANIFEST.md           ← Descripción completa de archivos
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✨ CARACTERÍSTICAS PRINCIPALES:
+
+  ✓ Interface moderna con PyQt6
+  ✓ Carga de archivos CSV
+  ✓ Filtros por lote e índices
+  ✓ Limpieza y normalización de datos
+  ✓ 4 vistas: Datos Crudos | Procesados | Estadísticas | Resumen
+  ✓ Exportación a CSV y Excel
+  ✓ Barra de progreso visual
+  ✓ Procesamiento sin congelamiento
+  ✓ Estadísticas detalladas por columna
+  ✓ Interfaz intuitiva y profesional
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+❓ PREGUNTAS FRECUENTES:
+
+  P: ¿Necesito Python instalado?
+  R: Sí, Python 3.8 o superior. Descárgalo de python.org
+
+  P: ¿Qué sistema operativo necesito?
+  R: Windows, macOS o Linux. Todos son compatibles.
+
+  P: ¿Cómo ejecuto la aplicación?
+  R: Abre terminal/consola y escribe: python data_processor_advanced.py
+
+  P: ¿Qué significa cada botón?
+  R: Lee INICIO_RAPIDO.md para una guía visual de 5 minutos.
+
+  P: ¿Puedo modificar la aplicación?
+  R: Sí, el código está completamente personalizable. Lee config.py
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🆘 SOLUCIÓN RÁPIDA DE PROBLEMAS:
+
+  ❌ "ModuleNotFoundError: No module named 'PyQt6'"
+  ✓ Ejecuta: pip install PyQt6
+
+  ❌ "Tabla vacía después de procesar"
+  ✓ Verifica que el archivo tenga datos que cumplan tus criterios de filtro
+
+  ❌ Error al exportar
+  ✓ Asegúrate de tener permisos de escritura en la carpeta destino
+
+  ❌ Aplicación se ve extraña
+  ✓ Lee INSTRUCCIONES.md sección "Solución de Problemas"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✅ CHECKLIST ANTES DE EMPEZAR:
+
+  □ Python 3.8+ instalado
+  □ Dependencias instaladas (pip install ...)
+  □ Archivo data_processor_advanced.py en esta carpeta
+  □ Archivo Reporte_de_Datos.csv en esta carpeta
+  □ Permisos de lectura/escritura en esta carpeta
+  □ Leí INICIO_RAPIDO.md
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎯 PRÓXIMOS PASOS:
+
+  1. Lee INICIO_RAPIDO.md (5 min) ← EMPIEZA AQUÍ
+  2. Instala dependencias (1 min)
+  3. Ejecuta: python data_processor_advanced.py
+  4. ¡Comienza a procesar datos!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📞 AYUDA ADICIONAL:
+
+  • Documentación técnica: INSTRUCCIONES.md
+  • Uso programático: ejemplo_uso_programatico.py
+  • Descripción de archivos: MANIFEST.md
+  • Configuración: config.py
+  • Ejemplo de datos: Reporte_de_Datos.csv
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎉 ¡ESTÁS LISTO PARA EMPEZAR!
+
+Todo está instalado y listo para usar. La aplicación es completamente 
+funcional y está lista para producción.
+
+Próximo paso: Lee INICIO_RAPIDO.md →
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Versión: 1.0 | Actualizado: Febrero 2026 | Estado: ✅ Completamente funcional
+
